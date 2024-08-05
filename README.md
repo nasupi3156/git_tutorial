@@ -2,8 +2,5 @@
 ## Git_tutorial
 このgit_tutorialは練習用に作成したものです。
 
-## mainブランチ
-mainブランチは練習用です。
+mainブランチとfeatureブランチがあります。
 
-## featureブランチ
-featureブランチは練習用でパスワードマネージャーがあります。
